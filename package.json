@@ -1,0 +1,17 @@
+{
+  "name": "arduino-drivelib",
+  "version": "0.0.1",
+  "description": "Arduino Smart Robot Car Kit V1.0 - Drive Lib",
+  "main": "Drivelib.cpp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elgambet/arduino-drivelib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elgambet/arduino-drivelib/issues"
+  },
+  "author": "gambeita@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/elgambet/arduino-drivelib#readme",
+  "private": true
+}
